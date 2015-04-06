@@ -1,6 +1,6 @@
 #JCheckers
 
-<img src="https://github.com/noaht11/JCheckers/blob/master/src/com/lightark/checkers/Resources/icons/Icon_256.png"/>
+<img src="https://github.com/noaht11/JCheckers/blob/master/src/com/lightark/jcheckers/Resources/icons/Icon_256.png"/>
 
 JCheckers is a basic checkers game for two people, released as a java application.
 
