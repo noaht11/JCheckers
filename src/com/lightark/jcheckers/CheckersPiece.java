@@ -1,4 +1,4 @@
-package com.lightark.checkers;
+package com.lightark.jcheckers;
 
 import javax.swing.ImageIcon;
 import javax.swing.JComponent;

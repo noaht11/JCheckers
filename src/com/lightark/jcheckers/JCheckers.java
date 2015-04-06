@@ -1,4 +1,4 @@
-package com.lightark.checkers;
+package com.lightark.jcheckers;
 
 import java.awt.Image;
 import java.util.ArrayList;
@@ -8,7 +8,7 @@ import javax.swing.ImageIcon;
 import javax.swing.UIManager;
 import javax.swing.UnsupportedLookAndFeelException;
 
-public class Checkers
+public class JCheckers
 {
 	public static List<Image> icons = new ArrayList<Image>();
 	

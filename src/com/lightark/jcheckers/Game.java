@@ -1,4 +1,4 @@
-package com.lightark.checkers;
+package com.lightark.jcheckers;
 
 import java.awt.BorderLayout;
 import java.awt.GridLayout;
@@ -95,7 +95,7 @@ public class Game implements Serializable
 		gameWindow = new JFrame("JCheckers");
 		gameWindow.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		gameWindow.setResizable(false);
-		gameWindow.setIconImages(Checkers.icons);
+		gameWindow.setIconImages(JCheckers.icons);
 		gameWindow.setLayout(new BorderLayout());
 		
 		JPanel boardPanel = new JPanel();

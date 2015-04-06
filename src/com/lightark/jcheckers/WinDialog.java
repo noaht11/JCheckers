@@ -1,4 +1,4 @@
-package com.lightark.checkers;
+package com.lightark.jcheckers;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
@@ -37,7 +37,7 @@ public class WinDialog extends JDialog
 		this.setResizable(false);
 		this.setLocationRelativeTo(game.getGameWindow());
 		this.setUndecorated(true);
-		this.setIconImages(Checkers.icons);
+		this.setIconImages(JCheckers.icons);
 		
 		this.setLayout(new BorderLayout());
 		

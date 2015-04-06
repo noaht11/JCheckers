@@ -1,4 +1,4 @@
-package com.lightark.checkers;
+package com.lightark.jcheckers;
 
 import java.awt.Color;
 import java.io.Serializable;
